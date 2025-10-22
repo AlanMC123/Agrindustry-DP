@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:bundle"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "Craft Bundle With Leather"
+    },
+    "pack_format": 48
+  }
+}
