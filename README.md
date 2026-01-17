@@ -1,2 +1,2 @@
-# Alan-MC-Datapacks
-Alan's datapacks which rebalance Minecraft
+# Agrindustry Datapacks
+Agrindustry生存所用到的所有数据包，针对该模组生存进行了修改，降低了部分物品获取的难度并平衡了楼梯、活板门的合成配方。
